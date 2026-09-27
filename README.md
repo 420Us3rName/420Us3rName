@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Passionate+about+software+development" alt="Typing SVG 2" />
 </h2>
 
+---
+
 <h2>Tech Stack:</h2>
 
 <p>
