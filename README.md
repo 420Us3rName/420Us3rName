@@ -44,9 +44,4 @@
   </a>
 </p>
 
-<h3>Profile Views</h3>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=D3vUserName&style=for-the-badge&color=black" />
-</p>
-
 </div>
