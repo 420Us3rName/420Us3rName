@@ -2,11 +2,9 @@
 
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+a+17yo+programmer+from+Poland" alt="Typing SVG 1" />
-
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Passionate+about+software+development" alt="Typing SVG 2" />
 </h2>
-
-</div>
 
 <h2>Tech Stack:</h2>
 
@@ -38,11 +36,7 @@
 
 ---
 
-<p>
-  <img src="https://visitcount.itsvg.in/api?id=D3vUserName&icon=0&color=0" />
-</p>
-
-<h2>💰 You can help me by Donating</h2>
+<h2>You can help me by Donating</h2>
 
 <p>
   <a href="https://buymeacoffee.com/420username">
@@ -50,7 +44,7 @@
   </a>
 </p>
 
-<h3>✨ Profile Views</h3>
+<h3>Profile Views</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=D3vUserName&style=for-the-badge&color=black" />
 </p>
